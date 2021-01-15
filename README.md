@@ -2,7 +2,7 @@
 
 ### Composición del curso
 
-For this challenge, you will create a program to play Rock, Paper, Scissors. A program that picks at random will usually win 50% of the time. To pass this challenge your program must play matches against four different bots, winning at least 60% of the games in each match.
+El curso consta de dos partes claramente diferenciadas: una teórica y otra práctica.
 
 In the file `RPS.py` you are provided with a function called `player`. The function takes an argument that is a string describing the last move of the opponent ("R", "P", or "S"). The function should return a string representing the next move for it to play ("R", "P", or "S").
 
