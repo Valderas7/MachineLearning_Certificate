@@ -14,7 +14,7 @@ El curso consta de dos partes claramente diferenciadas: una **teórica** y otra 
 
 - En la parte de proyectos hay un total de **cinco proyectos** desarrollados en **Python** gracias al framework **TensorFlow**, siendo cada uno de ellos desarrollado con algoritmos distintos y en aplicaciones distintas para tener una visión completa de todos ellos de forma práctica.
   - **Proyecto 1**: Se desarrolla un código para ganar a otros tres jugadores el mayor número de partidas posibles al típico juego de Piedra, Papel, Tijeras. 
-  - **Proyecto 2**: Se desarrolla una red convolucional para clasificar imágenes de perros y gatos en una aplicación de visión artificial. 
+  - **Proyecto 2**: Se desarrolla una red neuronal convolucional para clasificar imágenes de perros y gatos en una aplicación de visión artificial. 
   - **Proyecto 3**: Se usa el método de k vecinos más cercanos para crear un sistema de recomendación de libros según las calificaciones que los usuarios dan a dichos libros. 
-  - **Proyecto 4**: Se desarrolla una red neuronal densamente conectada para calcular los costes sanitarios de una persona en función de distintas características suyas en una aplicación de regresión lineal.
-  - Proyecto 5:
+  - **Proyecto 4**: Se desarrolla una red neuronal densamente conectada en un modelo de regresión lineal para calcular los costes sanitarios de una persona en función de distintas características suyas.
+  - **Proyecto 5**:
