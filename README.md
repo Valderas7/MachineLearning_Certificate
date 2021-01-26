@@ -16,5 +16,5 @@ El curso consta de dos partes claramente diferenciadas: una **teórica** y otra 
   - **Proyecto 1**: Se desarrolla un código para ganar a otros tres jugadores el mayor número de partidas posibles al típico juego de Piedra, Papel, Tijeras. 
   - **Proyecto 2**: Se desarrolla una red convolucional para clasificar imágenes de perros y gatos en una aplicación de visión artificial. 
   - **Proyecto 3**: Se usa el método de k vecinos más cercanos para crear un sistema de recomendación de libros según las calificaciones que los usuarios dan a dichos libros. 
-  - Proyecto 4:
+  - **Proyecto 4**: Se desarrolla una red neuronal densamente conectada para calcular los costes sanitarios de una persona en función de distintas características suyas en una aplicación de regresión lineal.
   - Proyecto 5:
