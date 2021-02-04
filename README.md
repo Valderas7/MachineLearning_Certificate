@@ -17,4 +17,4 @@ El curso consta de dos partes claramente diferenciadas: una **teórica** y otra 
   - **Proyecto 2**: Se desarrolla una red neuronal convolucional para clasificar imágenes de perros y gatos en una aplicación de visión artificial. 
   - **Proyecto 3**: Se usa el método de k vecinos más cercanos para crear un sistema de recomendación de libros según las calificaciones que los usuarios dan a dichos libros. 
   - **Proyecto 4**: Se desarrolla una red neuronal densamente conectada en un modelo de regresión lineal para calcular los costes sanitarios de una persona en función de distintas características suyas.
-  - **Proyecto 5**:
+  - **Proyecto 5**: Se desarrolla una red neuronal recurrente para clasificar si los mensajes SMS son spam o no en una aplicación de procesamiento de lenguaje natural.
